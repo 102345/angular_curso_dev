@@ -1,0 +1,51 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "caneta bic preta",
+      "price": 5.89,
+      "description": "descrição"
+    },
+    {
+      "id": 2,
+      "name": "notebook mac pro",
+      "price": 12000.89980980980980,
+      "description": "descrição"
+    },
+    {
+      "id": 3,
+      "name": "sansung s20",
+      "price": "7000.89",
+      "description": "descrição"
+    },
+    {
+      "description": "descrição",
+      "name": "lapis preto básico",
+      "price": "1.50",
+      "id": 4
+    },
+    {
+      "description": "descrição",
+      "name": "veio do fomrulario",
+      "price": "9.99",
+      "id": 6
+    },
+    {
+      "description": "descrição",
+      "name": "caneta tinteiro preta",
+      "price": "12.45",
+      "id": 7
+    },
+    {
+      "name": "Chave de fenda",
+      "price": "10",
+      "description": "Chave de fenda inoxidavel",
+      "id": 8
+    }
+  ],
+  "page": {
+    "total": 1,
+    "pagenumber": 1,
+    "quantity": 10
+  }
+}
